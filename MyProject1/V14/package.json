@@ -1,0 +1,15 @@
+{
+ "name":"V1",
+ "operation":"create",
+ "type":"regular",
+ "enabled":"true",
+ "closed":"false",
+ "tags":[],
+ "scripts":[
+   {
+   "name":"Createeet1-Ora66ee8348889856cle.sql",
+   "tags":[]
+   }
+ ]
+
+}

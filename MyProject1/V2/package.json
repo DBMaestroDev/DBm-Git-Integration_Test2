@@ -1,0 +1,15 @@
+{
+ "name":"V2",
+ "operation":"create",
+ "type":"regular",
+ "enabled":"true",
+ "closed":"false",
+ "tags":[],
+ "scripts":[
+   {
+   "name":"Createtable2-Oracle.sql",
+   "tags":[]
+   }
+ ]
+
+}

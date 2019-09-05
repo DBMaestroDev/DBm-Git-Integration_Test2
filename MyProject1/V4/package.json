@@ -1,5 +1,5 @@
 {
- "name":"V1",
+ "name":"V4",
  "operation":"create",
  "type":"regular",
  "enabled":"true",
@@ -7,7 +7,7 @@
  "tags":[],
  "scripts":[
    {
-   "name":"Createeet1-Ora66ee8348889856cle.sql",
+   "name":"Createtable1-Oracle.sql",
    "tags":[]
    }
  ]
